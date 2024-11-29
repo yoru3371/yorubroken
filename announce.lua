@@ -1,1 +1,1 @@
-return "This code was written and edited by Yorublox (Discord: yorublox) in 2021, with love"
+return "This code was written and edited by Yorucord (Discord: Yorucord) in 2021, with love"
